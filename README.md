@@ -42,10 +42,11 @@
 
 ## Screenshots
 
-![Screenshot from 2023-08-29 01-34-10](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/1b8212e8-e08e-4ca8-8435-53a18300454d)
+![map_select](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/21780fb4-56da-4d91-b5f9-47322f3763a7)
 *Home Page - Discover a list of bike trips.*
 
-![Screenshot from 2023-08-29 01-34-22](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/3154c1ec-1d0d-4951-8be4-515a2bcdef77)
+
+![trips](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/f48a9f3a-f163-4894-bd2a-313248364086)
 *Trip Details - Dive into detailed information and view the trip's route on an interactive map.*
 
 
