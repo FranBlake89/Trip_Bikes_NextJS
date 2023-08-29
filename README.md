@@ -42,15 +42,11 @@
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
+![Screenshot from 2023-08-29 01-34-10](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/1b8212e8-e08e-4ca8-8435-53a18300454d)
 *Home Page - Discover a list of bike trips.*
 
-![Trip Details](screenshots/trip.png)
+![Screenshot from 2023-08-29 01-34-22](https://github.com/FranBlake89/Trip_Bikes/assets/73005797/3154c1ec-1d0d-4951-8be4-515a2bcdef77)
 *Trip Details - Dive into detailed information and view the trip's route on an interactive map.*
 
-![About Page](screenshots/about.png)
-*About Page - Gain insights into the developer's background and projects.*
 
 ---
-
-Please replace placeholders like `your-username` with the actual GitHub username and update the screenshot file paths accordingly.
