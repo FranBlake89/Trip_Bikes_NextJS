@@ -1,6 +1,6 @@
 # Trips Interface with React and Next.js
 
-**New York Citibike Trips** is a dynamic web application built using React and Next.js that allows users to access and explore trip data from the "Trips" API. With an intuitive user interface and interactive features, this application provides an engaging way to discover information about various bike trips.
+**New York Citibike Trips** is a dynamic web application built using Next.js that allows users to access and explore trip data from the "Trips" API. With an intuitive user interface and interactive features, this application provides an engaging way to discover information about various bike trips.
 
 ## Features
 
@@ -9,30 +9,6 @@
 - **Responsive Design:** Utilize React-Bootstrap components to ensure a polished and responsive design that works seamlessly across different devices.
 - **Interactive Maps:** Visualize trip routes with interactive maps powered by Leaflet, enhancing the user experience and making it easier to comprehend trip details.
 - **Pagination:** Enjoy smooth and effortless navigation through the list of trips with built-in pagination controls.
-
-## Getting Started
-
-1. **Clone Repository:** Clone the repository to your local machine:
-   ```
-   git clone https://github.com/your-username/trips-interface.git
-   ```
-
-2. **Navigate to Project Directory:** Change to the project directory:
-   ```
-   cd trips-interface
-   ```
-
-3. **Install Dependencies:** Install required dependencies using npm:
-   ```
-   npm install
-   ```
-
-4. **Start Development Server:** Launch the development server:
-   ```
-   npm run dev
-   ```
-
-5. **Open in Browser:** Access the app in your web browser at `http://localhost:3000`.
 
 ## Usage
 
