@@ -1,6 +1,6 @@
 # Trips Interface with Next.js
 
-**New York Citibike Trips** is a dynamic web application built using Next.js that allows users to access and explore trip data from the "Trips" API. With an intuitive user interface and interactive features, this application provides an engaging way to discover information about various bike trips.
+`**New York Citibike Trips**` is a dynamic web application built using Next.js that allows users to access and explore trip data from the [`"Bike Trips API"`](https://github.com/FranBlake89/APIS/tree/master/API_trip). With an intuitive user interface and interactive features, this application provides an engaging way to discover information about various bike trips.
 
 ## Features
 
